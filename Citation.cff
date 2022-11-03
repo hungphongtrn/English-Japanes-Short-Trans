@@ -1,4 +1,4 @@
-@data{maruyama-yamamoto-2018-simplified,
+@misc{maruyama-yamamoto-2018-simplified,
     title = "Simplified Corpus with Core Vocabulary",
     author = "Maruyama, Takumi  and
       Yamamoto, Kazuhide",
@@ -10,7 +10,7 @@
     url = "https://www.aclweb.org/anthology/L18-1185",
 }
 
-@data{yamamoto-2017-simplified-japanese,
+@misc{yamamoto-2017-simplified-japanese,
     title = "やさしい⽇本語対訳コーパスの構築",
     author = "⼭本 和英  and
       丸⼭ 拓海  and
@@ -27,7 +27,7 @@
     url = "https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/B5-1.pdf",
 }
 
-@data{katsuta-yamamoto-2018-crowdsourced,
+@misc{katsuta-yamamoto-2018-crowdsourced,
     title = "Crowdsourced Corpus of Sentence Simplification with Core Vocabulary",
     author = "Katsuta, Akihiro  and
       Yamamoto, Kazuhide",
