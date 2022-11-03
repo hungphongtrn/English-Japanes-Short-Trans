@@ -1,4 +1,4 @@
-@inproceedings{maruyama-yamamoto-2018-simplified,
+{maruyama-yamamoto-2018-simplified,
     title = "Simplified Corpus with Core Vocabulary",
     author = "Maruyama, Takumi  and
       Yamamoto, Kazuhide",
@@ -10,7 +10,7 @@
     url = "https://www.aclweb.org/anthology/L18-1185",
 }
 
-@inproceedings{yamamoto-2017-simplified-japanese,
+{yamamoto-2017-simplified-japanese,
     title = "やさしい⽇本語対訳コーパスの構築",
     author = "⼭本 和英  and
       丸⼭ 拓海  and
